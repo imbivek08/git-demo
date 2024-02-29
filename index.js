@@ -1,0 +1,8 @@
+console.log("This is the first line of code")
+console.log("This is the first tracked change after tracking")
+console.log("some more lines of changes")
+console.log("first line ")
+console.log("second line ")
+console.log("third line ")
+console.log("fourth line ")
+console.log("fifthe line ")

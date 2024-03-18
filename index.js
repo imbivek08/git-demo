@@ -6,5 +6,4 @@ console.log("second line ")
 console.log("third line ")
 console.log("fourth line ")
 console.log("fifthe line ")
-
 console.log("some changes after the first commit")
